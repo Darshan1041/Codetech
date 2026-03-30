@@ -1,0 +1,130 @@
+CODTECH INTERNSHIP TASK DOCUMENT
+👤 Name: Darshan N
+🎓 Course: MCA
+🏫 College: Nitte Meenakshi Institute of Technology
+📌 Internship: CODTECH
+📅 Duration: As per internship
+🔹 TASK 1: FILE HANDLING UTILITY
+📌 Title:
+
+Java File Handling Utility
+
+📌 Objective:
+
+To create a Java program that performs:
+
+File writing
+File reading
+File modification
+📌 Description:
+
+This program demonstrates how Java handles file operations using File I/O classes like FileWriter, Scanner, and File.
+
+📌 Features:
+Write content into file
+Read file line-by-line
+Modify file content dynamically
+📌 Technologies Used:
+Java
+File Handling APIs
+📌 Output:
+File created and updated successfully
+Displays file content before and after modification
+📌 Conclusion:
+
+This task helps understand how Java manages file operations, which are essential in real-world applications.
+
+🔹 TASK 2: REST API CLIENT
+📌 Title:
+
+Java REST API Client – Weather Data
+
+📌 Objective:
+
+To fetch data from a public API and display it in structured format.
+
+📌 Description:
+
+This application sends an HTTP request to a weather API and parses JSON response to display temperature and wind speed.
+
+📌 Features:
+HTTP GET request
+JSON parsing
+Structured output
+📌 Technologies Used:
+Java
+HttpURLConnection
+JSON Library
+📌 Output:
+Displays weather details (temperature, wind speed)
+📌 Conclusion:
+
+This task demonstrates how Java interacts with APIs, which is essential for modern applications.
+
+🔹 TASK 3: MULTITHREADED CHAT APPLICATION
+📌 Title:
+
+Client-Server Chat Application using Java
+
+📌 Objective:
+
+To build a real-time chat system using sockets and multithreading.
+
+📌 Description:
+
+This application allows multiple clients to communicate through a server using Java sockets.
+
+📌 Features:
+Multiple client support
+Real-time communication
+Multithreaded server
+Message broadcasting
+📌 Technologies Used:
+Java
+Socket Programming
+Multithreading
+📌 Output:
+Messages sent by one client appear on others
+📌 Conclusion:
+
+This task demonstrates networking and concurrency concepts used in real-time applications.
+
+🔹 TASK 4: RECOMMENDATION SYSTEM
+📌 Title:
+
+AI-Based Recommendation System using Apache Mahout
+
+📌 Objective:
+
+To build a system that recommends items based on user preferences.
+
+📌 Description:
+
+This project uses collaborative filtering to suggest items using user similarity.
+
+📌 Features:
+User-based recommendation
+Predicts preferences
+Uses sample dataset
+📌 Technologies Used:
+Java
+Apache Mahout
+CSV Data
+📌 Output:
+Suggested items for a user
+📌 Conclusion:
+
+This task demonstrates how AI techniques are used in recommendation systems like Netflix and Amazon.
+
+🔹 OVERALL LEARNING OUTCOMES
+
+Through this internship, I learned:
+
+File handling in Java
+API integration
+Socket programming
+Multithreading concepts
+Basics of AI-based recommendation systems
+🔹 FINAL CONCLUSION
+
+The CODTECH internship provided hands-on experience in Java programming and real-world applications such as networking, APIs, and AI systems. These skills are essential for software development and future career growth.
